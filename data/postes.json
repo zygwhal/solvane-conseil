@@ -107,6 +107,33 @@
    "profil": "Docteur en mécanique ou matériaux, 2 ans d'expérience",
    "salaire": "45 à 55 k€",
    "page": true
+  },
+  {
+   "slug": "product-manager-ia",
+   "titre": "Product manager IA",
+   "ville": "Paris",
+   "contrat": "CDI",
+   "profil": "Produit SaaS B2B, IA générative",
+   "salaire": "65 à 80 k€",
+   "page": true
+  },
+  {
+   "slug": "juriste-ia",
+   "titre": "Juriste droit du numérique et AI Act",
+   "ville": "Paris",
+   "contrat": "CDI",
+   "profil": "Droit du numérique, 4 ans d'expérience",
+   "salaire": "55 à 68 k€",
+   "page": true
+  },
+  {
+   "slug": "ingenieur-ml-solvane-draft",
+   "titre": "Ingénieur(e) machine learning, Solvane Draft",
+   "ville": "Paris ou télétravail",
+   "contrat": "CDI",
+   "profil": "MLOps, évaluation de modèles",
+   "salaire": "60 à 75 k€",
+   "page": true
   }
  ]
 }
