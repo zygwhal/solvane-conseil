@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /
+Sitemap: https://zygwhal.github.io/solvane-conseil/sitemap.xml

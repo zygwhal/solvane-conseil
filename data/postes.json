@@ -1,0 +1,112 @@
+{
+ "postes": [
+  {
+   "slug": "consultant-cir-industrie-lyon",
+   "titre": "Consultant(e) CIR Industrie",
+   "ville": "Lyon",
+   "contrat": "CDI",
+   "profil": "Docteur en mécanique ou matériaux, 2 ans d'expérience",
+   "salaire": "45 à 55 k€",
+   "page": true
+  },
+  {
+   "slug": "consultant-fonds-europeens-paris",
+   "titre": "Consultant(e) Fonds européens",
+   "ville": "Paris",
+   "contrat": "CDI",
+   "profil": "Anglais courant, expérience Horizon Europe",
+   "salaire": "50 à 62 k€",
+   "page": true
+  },
+  {
+   "slug": "data-scientist-ia",
+   "titre": "Data scientist IA générative",
+   "ville": "Paris",
+   "contrat": "CDI",
+   "profil": "Python, modèles de langage, RAG",
+   "salaire": "55 à 70 k€",
+   "page": true
+  },
+  {
+   "slug": "business-developer-toulouse",
+   "titre": "Business developer ETI",
+   "ville": "Toulouse",
+   "contrat": "CDI",
+   "profil": "Vente de conseil aux directions financières",
+   "salaire": "45 k€ + variable",
+   "page": true
+  },
+  {
+   "slug": "consultant-cee-nantes",
+   "titre": "Consultant(e) CEE et efficacité énergétique",
+   "ville": "Nantes",
+   "contrat": "CDI",
+   "profil": "Ingénieur énergéticien",
+   "salaire": "42 à 50 k€",
+   "page": true
+  },
+  {
+   "slug": "juriste-fiscal-paris",
+   "titre": "Juriste fiscaliste contrôle CIR",
+   "ville": "Paris",
+   "contrat": "CDI",
+   "profil": "Contentieux fiscal, 5 ans d'expérience",
+   "salaire": "60 à 75 k€",
+   "page": true
+  },
+  {
+   "slug": "consultant-madrid",
+   "titre": "Consultor(a) incentivos fiscales I+D+i",
+   "ville": "Madrid",
+   "contrat": "CDI",
+   "profil": "Espagnol et français courants",
+   "salaire": "40 à 50 k€",
+   "page": true
+  },
+  {
+   "slug": "consultant-sante-lyon",
+   "titre": "Consultant(e) CIR Santé",
+   "ville": "Lyon",
+   "contrat": "CDI",
+   "profil": "Docteur en biologie",
+   "salaire": "45 à 55 k€",
+   "page": true
+  },
+  {
+   "slug": "chef-projet-europe-bruxelles",
+   "titre": "Chef(fe) de projet Innovation Fund",
+   "ville": "Bruxelles",
+   "contrat": "CDI",
+   "profil": "5 ans d'expérience en projets européens",
+   "salaire": "4 500 à 5 500 € bruts mensuels",
+   "page": true
+  },
+  {
+   "slug": "comptable-paris",
+   "titre": "Comptable fournisseurs",
+   "ville": "Paris",
+   "contrat": "CDI",
+   "profil": "BTS comptabilité",
+   "salaire": "34 à 38 k€",
+   "page": true
+  },
+  {
+   "slug": "stage-analyste",
+   "titre": "Stage analyste financement de l'innovation",
+   "ville": "Bordeaux",
+   "contrat": "Stage 6 mois",
+   "profil": "École d'ingénieur ou de commerce",
+   "salaire": "1 400 € par mois",
+   "page": true
+  },
+  {
+   "slug": "alternance-marketing",
+   "titre": "Alternance marketing digital",
+   "ville": "Paris",
+   "contrat": "Alternance",
+   "profil": "Bac+3 à bac+5",
+   "salaire": "Selon grille",
+   "page": true
+  }
+ ]
+}
